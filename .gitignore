@@ -1,4 +1,6 @@
 /.ackrc
+/.build/
 !/.gitignore
+/.latest
 /CPANDB-*/
 /CPANDB-*.tar.gz
