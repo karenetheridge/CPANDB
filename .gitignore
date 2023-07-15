@@ -1,0 +1,4 @@
+/.ackrc
+!/.gitignore
+/CPANDB-*/
+/CPANDB-*.tar.gz
