@@ -9,7 +9,7 @@ use Params::Util    1.00 ();
 use ORLite          1.51 ();
 use ORLite::Mirror  1.20 ();
 
-our $VERSION = '0.19';
+our $VERSION = '0.20';
 our @LOCATION = (
 	locale    => 'C',
 	time_zone => 'UTC',
